@@ -1,3 +1,5 @@
+package Chapter5AndBefore;
+
 public class secondsAndMinutesChallenge {
     public static void main(String[] args) {
         System.out.println(getDurationString(3945));

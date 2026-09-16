@@ -1,3 +1,5 @@
+package Chapter5AndBefore;
+
 public class IntEqualityPrinter {
     public static void printEqual (int x, int y, int z) {
 

@@ -1,3 +1,5 @@
+package Chapter5AndBefore;
+
 public class solutions {
     public static boolean hasTeen(int a,int b, int c ) {
                 return isTeen(a) || isTeen(b)|| isTeen(c);
